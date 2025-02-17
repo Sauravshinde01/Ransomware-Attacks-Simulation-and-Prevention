@@ -43,11 +43,5 @@ Faced challenges in ensuring real-time monitoring without performance degradatio
 - Adding more advanced ransomware attack vectors.
 - Implementing machine learning models for anomaly detection.
 
-## Contributions
-Feel free to fork and submit pull requests.
-
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 Saurav Shinde - [LinkedIn](https://www.linkedin.com/in/sauravshinde-cyber)
